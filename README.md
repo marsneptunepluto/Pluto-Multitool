@@ -24,3 +24,9 @@ batch multitool for doxing and hacking
 - <p>Port Scan</p>
 - <p>putty</p>
 - <p>Wifi Multitool</p>
+
+--------------------
+
+# Disclaimer
+
+<p>Disable antivirus because it gets sometimes flagged as a false positive.</p>
