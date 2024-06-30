@@ -7,6 +7,12 @@ batch multitool for doxing and hacking
 
 --------------------
 
+## Download
+
+<p>you can download the tool here <a href="https://github.com/marsneptunepluto/Pluto-Multitool/releases/tag/v1.2">https://github.com/marsneptunepluto/Pluto-Multitool/releases/tag/v1.2</a></p>
+
+--------------------
+
 # This tool contains features such as
 - <p>Dox_Tool_V2</p>
 - <p>SMB Bruteforce</p>
